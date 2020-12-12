@@ -114,10 +114,7 @@ I'm a 17 year old student pursuing BTech in Computer Science 🎓 from IP Univer
 	</ul>	
 </details>
 
-#
-
-<div align="center">
 
 ### Visit my company [PVA INDIA](https://pvaindia.com) & Community [The Epic Code](https://theepiccode.com)
 
-</div>
+
