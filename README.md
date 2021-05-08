@@ -17,7 +17,7 @@ I'm a 18 year old student pursuing BTech in Information Technology. I'm a passio
 - 🛠 &nbsp; I’m currently working with HTML,CSS, Cpp <br /> Python, Javascript, Wordpress, Ruby etc.
 - 🚀 &nbsp; I’m currently learning Object Oriented Programming.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theankitkhatri).
-- 💬 &nbsp; Ask me about anything [here](https://t.me/theankitkhatri)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://wa.me/919968689899)! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: thisisankit8055@gmail.com
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
